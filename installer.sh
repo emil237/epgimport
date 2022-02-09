@@ -3,7 +3,7 @@
 #wget -q "--no-check-certificate" https://raw.githubusercontent.com/emil237/epgimport/main/installer.sh -O - | /bin/sh
 
 ##########################################
-version=4.4.0
+version=1.8.5.1
 #############################################################
 TEMPATH=/tmp
 OPKGINSTALL="opkg install --force-reinstall"
